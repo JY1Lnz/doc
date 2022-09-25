@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "ca4e9709033f4ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbf8f891b50e9b48",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "记录/2022-9.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1724088dd2bdc52",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd18a7249bde03c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65aecc7d48cc2b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "da0166103ed2d7b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b90f5a75ed43ca2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbcd92247bcd4881",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d64aaf9bbf04d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1df34312cafca02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "记录/2022-9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c060406276ba4b31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "记录/2022-9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "225f874575a7abe2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ae303e568753d11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "记录/2022-9.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bbf8f891b50e9b48",
+  "lastOpenFiles": [
+    "每日自我学习记录.md",
+    "待办事项.md",
+    "游戏开发学习/图形学/法线贴图和切线空间.md",
+    "游戏开发学习/Unity/Wwise/Wwise.md",
+    "游戏开发学习/图形学/GAMES101/课程笔记/Ray Tracing 光线追踪.md",
+    "数学/3D数学基础/四元数.md",
+    "数学/线性代数/向量.md",
+    "游戏开发学习/像素游戏开发/README.md",
+    "游戏开发学习/像素游戏开发/开发日志.md",
+    "游戏开发学习/图形学/GAMES101/课程笔记/着色.md"
+  ]
+}
