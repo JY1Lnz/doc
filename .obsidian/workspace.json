@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "ca4e9709033f4ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "99cf19d8c99e6c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3d8a5ef46a21dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/顶点与输入布局.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af1f467d36c5d6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/常量缓冲区.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ee51b2c8227544b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/初始化/预备知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e3c2c5139ffe2b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/初始化/初始化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "967725685cadd6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/常量缓冲区.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "157d639ce7954c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/常量缓冲区.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b8239d6a19da9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/作业.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adfbaa5394196002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/帧资源.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03e63bdde56d871e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/渲染项.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43b62b32cf77f67f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/多常量缓冲区.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "670d5f5f25dc2cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/模板/模板学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1390f8250de82fe3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "19620a5a1025bf4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/Window程序开发/Windows开发入门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a3546383215bf74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/渲染流水线概述/颜色.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17abfcf02a084d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/顶点与输入布局.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1724088dd2bdc52",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd18a7249bde03c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65aecc7d48cc2b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da0166103ed2d7b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#非真实感",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b90f5a75ed43ca2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbcd92247bcd4881",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d64aaf9bbf04d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1df34312cafca02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/模板/模板学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c060406276ba4b31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/模板/模板学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "225f874575a7abe2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ae303e568753d11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/模板/模板学习.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "670d5f5f25dc2cf5",
+  "lastOpenFiles": [
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/多常量缓冲区.md",
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/渲染项.md",
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/帧资源.md",
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/作业.md",
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/常量缓冲区.md",
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/编译着色器.md",
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/顶点与输入布局.md",
+    "游戏开发学习/dx12/directx3d游戏开发/API记录/ID3D12Device.md",
+    "游戏开发学习/dx12/directx3d游戏开发/初始化/初始化.md",
+    "游戏开发学习/dx12/directx3d游戏开发/初始化/预备知识.md"
+  ]
+}

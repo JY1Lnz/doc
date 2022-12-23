@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "记录/2022-9.md",
+            "file": "游戏开发学习/Unity/UnityShader入门精要/Chapter12.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "记录/2022-9.md",
+                "file": "游戏开发学习/Unity/UnityShader入门精要/Chapter12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "记录/2022-9.md",
+                "file": "游戏开发学习/Unity/UnityShader入门精要/Chapter12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "记录/2022-9.md"
+                "file": "游戏开发学习/Unity/UnityShader入门精要/Chapter12.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "bbf8f891b50e9b48",
   "lastOpenFiles": [
+    "游戏开发学习/Unity/UnityShader入门精要/Chapter11.md",
+    "游戏开发学习/Unity/UnityShader入门精要/Chapter 6.md",
+    "记录/2022-9.md",
     "每日自我学习记录.md",
+    "游戏开发学习/图形学/MVP变换.md",
+    "游戏开发学习/图形学/变换.md",
     "待办事项.md",
     "游戏开发学习/图形学/法线贴图和切线空间.md",
     "游戏开发学习/Unity/Wwise/Wwise.md",
-    "游戏开发学习/图形学/GAMES101/课程笔记/Ray Tracing 光线追踪.md",
-    "数学/3D数学基础/四元数.md",
-    "数学/线性代数/向量.md",
-    "游戏开发学习/像素游戏开发/README.md",
-    "游戏开发学习/像素游戏开发/开发日志.md",
-    "游戏开发学习/图形学/GAMES101/课程笔记/着色.md"
+    "游戏开发学习/图形学/GAMES101/课程笔记/Ray Tracing 光线追踪.md"
   ]
 }
