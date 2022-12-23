@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "2d39a5e85285dd7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/模板/模板元编程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1390f8250de82fe3",
             "type": "leaf",
             "state": {
@@ -184,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/模板/模板学习.md",
+                "file": "C++/模板/模板元编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/模板/模板学习.md",
+                "file": "C++/模板/模板元编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/模板/模板学习.md"
+                "file": "C++/模板/模板元编程.md"
               }
             }
           }
@@ -301,8 +313,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "670d5f5f25dc2cf5",
+  "active": "2d39a5e85285dd7e",
   "lastOpenFiles": [
+    "C++/模板/模板学习.md",
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/多常量缓冲区.md",
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/渲染项.md",
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/帧资源.md",
@@ -311,7 +324,6 @@
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/编译着色器.md",
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/顶点与输入布局.md",
     "游戏开发学习/dx12/directx3d游戏开发/API记录/ID3D12Device.md",
-    "游戏开发学习/dx12/directx3d游戏开发/初始化/初始化.md",
-    "游戏开发学习/dx12/directx3d游戏开发/初始化/预备知识.md"
+    "游戏开发学习/dx12/directx3d游戏开发/初始化/初始化.md"
   ]
 }
