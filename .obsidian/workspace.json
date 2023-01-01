@@ -11,8 +11,12 @@
             "id": "4abbb2f77d6af355",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "编译原理/LLVM/LLVM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/模板/模板元编程.md",
+                "file": "编译原理/LLVM/LLVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/模板/模板元编程.md",
+                "file": "编译原理/LLVM/LLVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/模板/模板元编程.md"
+                "file": "编译原理/LLVM/LLVM.md"
               }
             }
           }
@@ -143,7 +147,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "65aecc7d48cc2b05",
+  "active": "4abbb2f77d6af355",
   "lastOpenFiles": [
     "C++/模板/模板学习.md",
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/多常量缓冲区.md",
