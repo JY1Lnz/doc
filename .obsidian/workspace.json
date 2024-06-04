@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9c03b5f7cbc7303b",
+        "id": "d35791c05c3abcd0",
         "type": "tabs",
         "children": [
           {
-            "id": "ad03845c6374b181",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "8848d263f8df7522",
+            "id": "27346a2c3f450ee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译原理/LLVM/LaneBitmask.md",
+                "file": "BOOK/SICP/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,29 +48,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#非真实感",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "9b90f5a75ed43ca2",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "763fb6d471786f07",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -104,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理/LLVM/LaneBitmask.md",
+                "file": "BOOK/SICP/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理/LLVM/LaneBitmask.md",
+                "file": "BOOK/SICP/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/LLVM/LaneBitmask.md"
+                "file": "BOOK/SICP/README.md"
               }
             }
           }
@@ -166,10 +139,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8848d263f8df7522",
+  "active": "27346a2c3f450ee9",
   "lastOpenFiles": [
-    "编译原理/LLVM/RegisterMaskPair.md",
+    "BOOK/SICP/README.md",
+    "BOOK/SICP",
+    "未命名",
+    "BOOK",
     "编译原理/LLVM/LaneBitmask.md",
+    "编译原理/LLVM/RegisterMaskPair.md",
     "编译原理/LLVM/LLVM.md",
     "C++/模板/模板特化.md",
     "C++/模板/SFINAE.md",
@@ -197,13 +174,9 @@
     "游戏开发学习/dx12/directx3d游戏开发/作业/第六章.md",
     "游戏开发学习/dx12/directx3d游戏开发/API记录/ID3D12Device.md",
     "游戏开发学习/dx12/directx3d游戏开发/作业",
-    "游戏开发学习/dx12/directx3d游戏开发/创建默认堆.md",
     "游戏开发学习/dx12/directx3d游戏开发/数学基础 - 变换",
     "Markdown-chinese-simple.pdf",
     "Pasted image 20220730193117.png",
-    "杂事",
-    "游戏开发学习/游戏引擎/LinEngine/记录",
-    "游戏开发学习/游戏引擎/LinEngine",
-    "游戏开发学习/游戏引擎/GAMES104"
+    "杂事"
   ]
 }
