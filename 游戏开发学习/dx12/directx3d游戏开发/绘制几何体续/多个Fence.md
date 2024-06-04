@@ -1,0 +1,1 @@
+相当于每个FrameResouce[[帧资源]]都拥有一个自己的Fence。为了避免问题，每个帧资源都有自己的CommandListAlloc防止gpu没有执行就把资源释放。

@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe01cf116b0eb10c",
+            "id": "ad03845c6374b181",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "8848d263f8df7522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "编译原理/LLVM/LaneBitmask.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "编译原理/LLVM/LaneBitmask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "编译原理/LLVM/LaneBitmask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "编译原理/LLVM/LaneBitmask.md"
               }
             }
           }
@@ -155,37 +166,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe01cf116b0eb10c",
+  "active": "8848d263f8df7522",
   "lastOpenFiles": [
-    "Markdown-chinese-simple.pdf",
-    "Pasted image 20220730193117.png",
-    "杂事/vscode配置.md",
-    "杂事/未命名.md",
-    "C++/CMake/CMake 函数库.md",
-    "杂事",
-    "C++/CMake/动态库.md",
-    "游戏开发学习/游戏引擎/LinEngine/记录/EntryPoint.md",
-    "游戏开发学习/游戏引擎/LinEngine/记录/spdlog.md",
-    "记录/2023-5.md",
-    "记录/2022-9.md",
-    "每日自我学习记录.md",
-    "游戏开发学习/游戏引擎/LinEngine/记录",
-    "游戏开发学习/游戏引擎/LinEngine",
+    "编译原理/LLVM/RegisterMaskPair.md",
+    "编译原理/LLVM/LaneBitmask.md",
     "编译原理/LLVM/LLVM.md",
-    "游戏开发学习/游戏引擎/GAMES104",
-    "游戏开发学习/游戏引擎",
-    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/顶点与输入布局.md",
-    "机械键盘制作/开始.md",
-    "机械键盘制作",
+    "C++/模板/模板特化.md",
+    "C++/模板/SFINAE.md",
+    "C++/模板/模板元编程.md",
+    "游戏开发学习/dx12/directx3d游戏开发/一些坑爹的记录.md",
+    "Linux/SHELL.md",
+    "Linux",
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/常量缓冲区.md",
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/编译着色器.md",
-    "游戏开发学习/dx12/directx3d游戏开发/初始化/预备知识.md",
-    "游戏开发学习/dx12/directx3d游戏开发/初始化/初始化.md",
-    "未命名 1.md",
-    "C++/模板/模板学习.md",
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/顶点与输入布局.md",
+    "游戏开发学习/dx12/directx3d游戏开发/向量代数.md",
+    "游戏开发学习/dx12/directx3d游戏开发/纹理/纹理.md",
+    "游戏开发学习/dx12/directx3d游戏开发/球面坐标.md",
+    "游戏开发学习/dx12/directx3d游戏开发/纹理",
+    "游戏开发学习/dx12/directx3d游戏开发/光照/朗伯余弦定理.md",
+    "游戏开发学习/图形学/光照.md",
+    "游戏开发学习/dx12/directx3d游戏开发/光照",
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/帧资源.md",
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/多个Fence.md",
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/多常量缓冲区.md",
     "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/渲染项.md",
-    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/帧资源.md",
-    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体/作业.md"
+    "游戏开发学习/dx12/directx3d游戏开发/绘制几何体续/多物体绘制.md",
+    "游戏开发学习/dx12/directx3d游戏开发/初始化/初始化.md",
+    "游戏开发学习/dx12/directx3d游戏开发/初始化/预备知识.md",
+    "游戏开发学习/dx12/directx3d游戏开发/作业/第六章.md",
+    "游戏开发学习/dx12/directx3d游戏开发/API记录/ID3D12Device.md",
+    "游戏开发学习/dx12/directx3d游戏开发/作业",
+    "游戏开发学习/dx12/directx3d游戏开发/创建默认堆.md",
+    "游戏开发学习/dx12/directx3d游戏开发/数学基础 - 变换",
+    "Markdown-chinese-simple.pdf",
+    "Pasted image 20220730193117.png",
+    "杂事",
+    "游戏开发学习/游戏引擎/LinEngine/记录",
+    "游戏开发学习/游戏引擎/LinEngine",
+    "游戏开发学习/游戏引擎/GAMES104"
   ]
 }

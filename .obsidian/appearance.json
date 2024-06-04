@@ -2,5 +2,8 @@
   "theme": "moonstone",
   "accentColor": "",
   "textFontFamily": "微软雅黑",
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "",
+  "cssTheme": "Solarized",
+  "baseFontSize": 18
 }
