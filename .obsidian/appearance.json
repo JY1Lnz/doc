@@ -1,9 +1,9 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentColor": "",
   "textFontFamily": "微软雅黑",
-  "monospaceFontFamily": "Source Code Pro",
+  "monospaceFontFamily": "ComicShannsMono Nerd Font Mono,Source Code Pro,Inter",
   "interfaceFontFamily": "",
-  "cssTheme": "Solarized",
+  "cssTheme": "",
   "baseFontSize": 18
 }
